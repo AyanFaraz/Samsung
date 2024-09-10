@@ -1,0 +1,47 @@
+.Samsung1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px; 
+}
+
+.Samsung2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: grey;
+    color: white;
+    border: solid;
+    border-color: black;
+    border-radius: 100px;
+    border-width: 40px;  
+}
+
+.Samsung3 {
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.Samsung4 {
+    height: 500px;
+    width: 470px;
+    border: solid;
+    border-radius: 3px;
+    border-width: 5px;
+    margin-left: 230px;
+}
+
+.Samsung5 {
+    font-size: 60;
+    text-align: center;
+}
+
+.Samsung6 {
+    font-size: 85px;
+    text-decoration: none;
+    color: white;
+    margin-left: 400px;
+    border: solid;
+    border-color: black;
+    border-width: 6px;
+    background-color: green;
+
+}
